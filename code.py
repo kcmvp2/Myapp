@@ -1,13 +1,17 @@
 # This is a comment in python
 
+<<<<<<< HEAD
 
 a=3128
+=======
+a=4128
+>>>>>>> 4c69619 (second commit from main branch)
 
-b=3289
+b=4289
 
-c=3318
+c=4318
 
-d=3499
+d=4499
 
 sum = a+b+c+d
 
