@@ -1,12 +1,12 @@
 # This is a comment in python
 
-a=28
+a=128
 
-b=89
+b=289
 
-c=18
+c=318
 
-d=99
+d=499
 
 sum = a+b+c+d
 
