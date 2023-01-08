@@ -1,8 +1,8 @@
 # This is a comment in python
 
-a=18
+a=28
 
-b=19
+b=89
 
 sum = a+b
 
